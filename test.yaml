@@ -1,0 +1,14 @@
+key: value
+# this is comment
+
+key1: value1
+
+# this is a list
+list: # list of grocery
+ - fruits: # buy this fruits
+   - apple
+   - orange
+   - banana
+ - bakery: # buy this bakery items
+   - bread
+   - cookies
